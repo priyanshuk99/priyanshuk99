@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priyanshuk99
 - 👀 I’m interested in developing cool stuffs
-- 🌱 I’m currently learning MERN stack development
-- 💞️ I’m looking to collaborate on web based projects.
+- 🌱 I’m currently growing on MERN stack development
+- 💞️ I’m looking to collaborate to web based projects.
 - 📫 How to reach me: kumbhkarprinshu339@gmail.com
 
 <!---
